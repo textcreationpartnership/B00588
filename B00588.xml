@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vvofull lamentation of William Purcas, vvho for murtherin [sic] his mother at Thaxted in Essex was executed at Chelmsford. To the tune of, The rich merchant.</title>
+            <author>Purcas, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00588</idno>
+            <idno type="STC">STC 20509.7</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[444]</idno>
+            <idno type="EEBO-CITATION">99884549</idno>
+            <idno type="PROQUEST">ocm99884549</idno>
+            <idno type="VID">183151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183151)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[235])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vvofull lamentation of William Purcas, vvho for murtherin [sic] his mother at Thaxted in Essex was executed at Chelmsford. To the tune of, The rich merchant.</title>
+                  <author>Purcas, William.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>For Francis Coules, dvvelling in the Old-Baily.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1624?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "The swan before her death ..."</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Purcas, William --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Murder --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="444" facs="tcp:183151:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>The vvofull Lamentation of <hi>William Purcas,</hi> vvho for murtherin his Mother at <hi>Thaxted</hi> in <hi>Eſſex</hi> was executed at <hi>Chelmsford.</hi>
+            </head>
+            <opener>To the tune of, <hi>The rich Merchant.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THe Swan before her death,</l>
+                  <l>moſt pleaſantly doth ſing:</l>
+                  <l>But I a heavie hearted note</l>
+                  <l>with teares my hands doe wring,</l>
+                  <l>With teares my hands doe wring,</l>
+                  <l>yet not a teare for death;</l>
+                  <l>For I am weary of my life,</l>
+                  <l>deſiring loſſe of breath.</l>
+               </lg>
+               <lg>
+                  <l>No feares for death I ſhed,</l>
+                  <l>but for my ſinnes I mourne;</l>
+                  <l>Oh, for that ſin that makes me wiſh,</l>
+                  <l>I never had béen borne,</l>
+                  <l>I never had béen borne,</l>
+                  <l>mercy good Lord I crave:</l>
+                  <l>Oh would my mothers tender womb,</l>
+                  <l>had béen my timeleſſe grave.</l>
+               </lg>
+               <lg>
+                  <l>Ah me, that very word</l>
+                  <l>ſtrikes through my wounded heart,</l>
+                  <l>The name of Mother (oh my ſoule)</l>
+                  <l>doth aggravate my ſmart,</l>
+                  <l>Doth aggravate my ſmart,</l>
+                  <l>and much increaſe my woe,</l>
+                  <l>Ne'r villaine did ſo vile a déed</l>
+                  <l>as I have done, I know.</l>
+               </lg>
+               <lg>
+                  <l>Oh now (alas) I know,</l>
+                  <l>but now (alas) too late,</l>
+                  <l>Drinke then depriv'd me of my ſenſe,</l>
+                  <l>and of my humane ſtate.</l>
+                  <l>Oh, that deteſted Vice</l>
+                  <l>is that we ſhould deteſt,</l>
+                  <l>A thouſand thouſand times I curſe,</l>
+                  <l>though once I lov'd it beſt.</l>
+               </lg>
+               <lg>
+                  <l>Yea, once I lov'd it well,</l>
+                  <l>oh, too too well indéed:</l>
+                  <l>For that I did in drinke ore-gone,</l>
+                  <l>my woe-tyr'd ſoule doth bléed.</l>
+                  <l>For this foule ſpotted fault,</l>
+                  <l>my mother many a time</l>
+                  <l>Would gently chide me, &amp; would wiſh</l>
+                  <l>me leave this loathed crime.</l>
+               </lg>
+               <lg>
+                  <l>Shée'd tell me 'twas a ſinne</l>
+                  <l>that many ſinnes did feed,</l>
+                  <l>As ſwearing, whoring, and ſuch like,</l>
+                  <l>and true ſhe ſaid indeed.</l>
+                  <l>With teares ſhe oft did ſay,</l>
+                  <l>a wicked end 'twill have,</l>
+                  <l>Therefore my ſon doe thou take héed,</l>
+                  <l>take heed of it I crave.</l>
+               </lg>
+               <lg>
+                  <l>With heavie heart ſhe thus</l>
+                  <l>would ſeeme to turne my minde,</l>
+                  <l>But ſlightly Ide regard her words,</l>
+                  <l>which now too true I finde.</l>
+                  <l>Her Hony words to me</l>
+                  <l>more bitter were than gall;</l>
+                  <l>I tooke her for my foe, when ſhe</l>
+                  <l>was moſt my friend of all.</l>
+               </lg>
+               <lg>
+                  <l>Shée'd ſpeake to me in love,</l>
+                  <l>I'de anſwer her in rage,</l>
+                  <l>Without all feare or reverence</l>
+                  <l>of title, or of age.</l>
+                  <l>Thus oft with words wée'd part,</l>
+                  <l>till good with bad I croſt<g ref="char:punc">▪</g>
+                  </l>
+                  <l>But at the laſt, in drinking rage</l>
+                  <l>my wit and ſenſe I loſt.</l>
+               </lg>
+               <lg>
+                  <l>Her words I would not heare,</l>
+                  <l>in rage I drew my knife,</l>
+                  <l>To take deare life away from her,</l>
+                  <l>by whom I had my life.</l>
+                  <l>The ſight of which did make</l>
+                  <l>her heart much ſorrow féele:</l>
+                  <l>(Then as I ſhould have done to her)</l>
+                  <l>ſhe unto me did knéele,</l>
+               </lg>
+               <lg>
+                  <l>And on her knées did beg,</l>
+                  <l>that I her life would ſpare,</l>
+                  <l>And 'twere but for my ſoule, on which</l>
+                  <l>ſhe pray'd me have a care:</l>
+                  <l>Oh ſpare me, ſonne, ſhe ſaid,</l>
+                  <l>forget not who I am,</l>
+                  <l>Thy aged Mother doe not then</l>
+                  <l>thy eares againſt me dam.</l>
+               </lg>
+               <lg>
+                  <l>Alas, how canſt thou, ſonne,</l>
+                  <l>endure to ſée me knéele,</l>
+                  <l>And beg &amp; wéep and wring my hands,</l>
+                  <l>and no compaſſion féele?</l>
+                  <l>For telling thée thy fault,</l>
+                  <l>and wiſhing thée to leave,</l>
+                  <l>I pray thée doe not deſperately</l>
+                  <l>me of my life bereave.</l>
+               </lg>
+               <lg>
+                  <l>Thus knéeling would ſhe beg,</l>
+                  <l>and begging, weep apace;</l>
+                  <l>And weeping, ſhe would wring her hands,</l>
+                  <l>in lamentable caſe.</l>
+                  <l>Yet nothing was I mov'd</l>
+                  <l>with all her piteous moane,</l>
+                  <l>My heart for her did féele no griefe,</l>
+                  <l>but was as hard as ſtone.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="445" facs="tcp:183151:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 20 -->
+               <head>The ſecond part.</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THus ſtubborne did I ſtand,</l>
+                  <l>againſt my Mother deare:</l>
+                  <l>This ſecond Part, the bloody part,</l>
+                  <l>diſcourſed you ſhall heare.</l>
+               </lg>
+               <lg>
+                  <l>Now, now, oh now againe,</l>
+                  <l>full heavily I ſing;</l>
+                  <l>And in relation of my woe,</l>
+                  <l>both heart and hands I wring:</l>
+                  <l>For that I now ſhall tell,</l>
+                  <l>will draw forth briniſh teares</l>
+                  <l>From any that have humane hearts,</l>
+                  <l>or my laments that heares.</l>
+               </lg>
+               <lg>
+                  <l>Her kind intreats I croſt,</l>
+                  <l>with bitter words and oathes,</l>
+                  <l>Such as the wicked love to heare,</l>
+                  <l>ſuch as the vertuous loathes.</l>
+                  <l>And after all theſe wandring words,</l>
+                  <l>with Hels prepared knife,</l>
+                  <l>I quickly wounded her to death,</l>
+                  <l>from whom I had my life.</l>
+               </lg>
+               <lg>
+                  <l>Vi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e <hi>Nero</hi> (I have read)</l>
+                  <l>his Mother ript to ſee</l>
+                  <l>The place where he an <hi>Embrion</hi> lay;</l>
+                  <l>O foule impietie!</l>
+                  <l>Yet none more vile than this,</l>
+                  <l>than this that I have done;</l>
+                  <l>Oh, never did there ever live</l>
+                  <l>ſo impious a ſonne.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Cain</hi> branded was a Slave,</l>
+                  <l>for murthering of his Brother;</l>
+                  <l>Oh, what am I then, what am I,</l>
+                  <l>for murthering of my Mother?</l>
+                  <l>Aye me, my Mother <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eare,</l>
+                  <l>that bitter names did prove</l>
+                  <l>In bearing me, and ever ſince</l>
+                  <l>full dearely did me love.</l>
+               </lg>
+               <lg>
+                  <l>Full dearely did me love,</l>
+                  <l>as any Mother could:</l>
+                  <l>And carefull was ſhe ſtill for me,</l>
+                  <l>as any Mother ſhould.</l>
+                  <l>Her beſt in all ſhe did,</l>
+                  <l>ſtill working for my good:</l>
+                  <l>Yet all her paine and care I quit,</l>
+                  <l>with ſhedding of her blood.</l>
+               </lg>
+               <lg>
+                  <l>With ſhedding of her blood,</l>
+                  <l>her kindneſſe I did quit,</l>
+                  <l>By the Devill goaded on to do't,</l>
+                  <l>even in my drunken fit.</l>
+                  <l>All you that take delight</l>
+                  <l>in this abhorred Vice,</l>
+                  <l>The end of it come finde of me,</l>
+                  <l>and learne to be more wiſe.</l>
+               </lg>
+               <lg>
+                  <l>This ſtaines my ſoule as much</l>
+                  <l>as any ſinne of ſeven,</l>
+                  <l>That blacks ſhe ſoule, that we ſhould keep</l>
+                  <l>moſt faire and fit for Heaven.</l>
+                  <l>So long is a man a man,</l>
+                  <l>as Reaſon he retaines:</l>
+                  <l>But Reaſon gone, he is no man,</l>
+                  <l>that ſhape's but little gaines.</l>
+               </lg>
+               <lg>
+                  <l>If man be then no man,</l>
+                  <l>when Reaſon is away,</l>
+                  <l>Man is no man when he is drunke,</l>
+                  <l>for Drinke doth Reaſon ſway.</l>
+                  <l>O, what's a Drunkard then,</l>
+                  <l>of Reaſon diſpoſſeſt!</l>
+                  <l>As other creatures reaſonleſſe,</l>
+                  <l>he is a brutiſh Beaſt.</l>
+               </lg>
+               <lg>
+                  <l>And thus by me take heed</l>
+                  <l>of Drunkenneſſe (I end.)</l>
+                  <l>O flie this Vice, and ſee what ſinnes</l>
+                  <l>doe not this Vice attend.</l>
+                  <l>For that I did in drinke,</l>
+                  <l>now I am here to dye:</l>
+                  <l>Ten thouſand deaths I have deſerv'd<g ref="char:punc">▪</g>
+                  </l>
+                  <l>for this impietie.</l>
+               </lg>
+               <lg>
+                  <l>Thus ſorry for my ſinne,</l>
+                  <l>I pray that all may mend:</l>
+                  <l>And Chriſt I pray receive my ſoule,</l>
+                  <l>after my ſhamefull end.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>Francis Coules,</hi> dwelling in the Old-Baily.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
